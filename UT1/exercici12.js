@@ -1,4 +1,4 @@
-let nom = `Pere`
+let nom = `Joan`
 let edat = `18`
 let ciutat = `Manacor`
 
