@@ -53,3 +53,5 @@ console.log('|----------------------------|');
 console.log(`El temps de descàrrega és de ${tempsSegons.toFixed(2)} segons`);
 console.log(`El temps de descàrrega és de ${tempsMinuts.toFixed(2)} minuts`);
 console.log(`El temps de descàrrega és de ${tempsHores.toFixed(2)} hores`);
+
+// Final del programa
