@@ -64,6 +64,6 @@ if (valida === false) {
 
     const privada = privadaA || privadaB || privadaC;
 
-    console.log(privada ? "Tipus: Privada" : "Tipus: Pública");
+    console.log(privada ? "Tipus: Privada" : "Tipus: Publica");
   }
 }
